@@ -1,4 +1,4 @@
-# 🛰️ Luke Tracy  
+# Luke Tracy  
 ### PhD Researcher | Space Medicine • Biomedical Sensing • Data & Embedded Systems
 
 I’m a PhD researcher in aerospace / space medicine based out of New Zealand
@@ -10,26 +10,26 @@ My work focuses on understanding cellular and physiological adaptation to microg
 
 ---
 
-## 🔬 Current Focus
+## Current Focus
 
-- 🧬 **Biological data analysis**
+  -  **Biological data analysis**
   - RNA-seq / omics pipelines (GeneLab-style datasets)
   - Statistical analysis & visualization (Python, R)
 
-- 📡 **Embedded & sensing systems**
+  -  **Embedded & sensing systems**
   - IMU-based gravity vector analysis
   - Physiological monitoring (PPG, bioimpedance, temperature)
   - Real-time cell monitoring in microgravity conditions (both real and simulated)
   - ESP32 / microcontroller-based data logging
 
-- 🛰️ **Microgravity & partial-gravity simulation**
+  -  **Microgravity & partial-gravity simulation**
   - Random Positioning Machines 
   - Validation of effective gravity vectors
   - Algorithm development for partial-g simulation
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 **Data & Analysis**
 - Python (pandas, numpy, matplotlib, scipy)
@@ -48,7 +48,7 @@ My work focuses on understanding cellular and physiological adaptation to microg
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 > *(Repositories are actively evolving as part of my PhD and independent skill-building)*
 
@@ -66,7 +66,7 @@ My work focuses on understanding cellular and physiological adaptation to microg
 
 ---
 
-## 🎯 What I’m Building Toward
+## What I’m Building Toward
 
 - Space-sector roles involving biomedical data, sensors, or payload development
 - Applied research bridging human physiology and engineering systems
@@ -74,10 +74,10 @@ My work focuses on understanding cellular and physiological adaptation to microg
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-- 🌍 Based in New Zealand (open to international opportunities)
-- 📧 Academic / professional contact available on request
+-  Based in New Zealand (open to international opportunities)
+-  Academic / professional contact available on request
 
 ---
 
